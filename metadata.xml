@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>De ondergang der Eerste Wareld</dc:title>
+      <dc:creator>Willem Bilderdijk (1756–1831)</dc:creator>
+      <dc:creator>Sebald Jean Everard Rau (1801–1887)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2005-07-01</dc:publisher>
+      <dc:date>2005-07-01</dc:date>
+      <dc:rights>Public Domain
+
+ Publication date: 1890. (First in this edition 1880, First publication of the verse ca. 1832.)
+
+ </dc:rights>
+      <dc:language>nl-1800</dc:language>
+      <dc:identifier>pg:8468</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
